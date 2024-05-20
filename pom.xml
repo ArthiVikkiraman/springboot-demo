@@ -11,7 +11,7 @@
 	<groupId>com.demo</groupId>
 	<artifactId>springboot-demo</artifactId>
 	<version>v1.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>springboot-demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
